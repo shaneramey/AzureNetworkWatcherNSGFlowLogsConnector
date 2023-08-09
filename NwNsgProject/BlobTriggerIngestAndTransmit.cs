@@ -100,7 +100,7 @@ namespace nsgFunc
                 bytePool.Return(nsgMessages);
             }
 
-            log.LogDebug(nsgMessagesString);
+            // log.LogDebug(nsgMessagesString);
 
 
             try
